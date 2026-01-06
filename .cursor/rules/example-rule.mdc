@@ -1,9 +1,6 @@
 ---
-description: 
-globs: *.tsx
-alwaysApply: false
+alwaysApply: true
 ---
-
 # Next.jsのパラメータ処理ガイドライン
 
 ## パラメータの型定義
